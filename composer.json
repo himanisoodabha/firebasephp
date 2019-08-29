@@ -3,5 +3,5 @@
     "php": ">=5.6",
     "ext-curl": "*",
     "kreait/firebase-php": "^4.18"
-  }
+  } 
 }
